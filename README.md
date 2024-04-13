@@ -23,8 +23,8 @@ STEP:12 On the board, by giving required input, the LEDs starts to glow light, i
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/0c26fe47-d78c-43dd-ac0d-804e427a3bbc)
 # Program
 ```
-Developed by : Trisha S
-Register number: 212222060280
+Developed by : Dhivyadharshini S
+Register number: 212222060051
 ```
 ```
 module FULLADDER(a,b,c,sum,carry);
@@ -38,7 +38,7 @@ and g5(carry,w2,w3);
 endmodule
 ```
 # Output
-![image](https://github.com/trishasailendran/FULL_ADDER/assets/87655678/ceb32b71-498f-4993-8961-e191bdfa3e32)
+![image](https://github.com/DhivyadharshiniSS/FULL_ADDER/assets/166376977/83a35aeb-e590-4a59-8aef-a5586cb495d8)
 # Result
 Hence the ouput for full adder is verified.
 
