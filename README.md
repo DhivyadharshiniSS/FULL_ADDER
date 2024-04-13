@@ -40,5 +40,5 @@ endmodule
 # Output
 ![image](https://github.com/DhivyadharshiniSS/FULL_ADDER/assets/166376977/83a35aeb-e590-4a59-8aef-a5586cb495d8)
 # Result
-Hence the ouput for full adder is verified.
+Hence the output for full adder is verified.
 
